@@ -25,5 +25,5 @@ This procedure creates Activity Log entries from WiFi Sessions.
 
 **Installation**
 1. Add the required integration and set up the custom columns as outlined in the Requirements section.
-2. Copy and execute (wifi_session_activity_log.sql)[wifi_session_activity_log.sql] in SSMS
+2. Copy and execute [service_wifi_activity_log.sql](service_wifi_activity_log.sql) in SSMS
 3. Set up your SQL Job as outlined in Requirements #3.
