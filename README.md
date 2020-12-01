@@ -1,7 +1,10 @@
 > # Wifi Device Session to Activity Log
 > ***A custom Dream City Church procedure for Ministry Platform***
+
 > Version: 1.0
+
 > Author: Stephan Swinford
+
 > Date: 12/1/2020
 
 `This procedure is provided "as is" with no warranties expressed or implied.`
